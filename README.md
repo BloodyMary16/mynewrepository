@@ -1,10 +1,10 @@
 # **MyNewRepository**
-En este proyecto aprendemos a dar los primeros pasos con C#. 
+En este proyecto aprendemos a dar los primeros pasos con **C#** en el _I.E.S "Peñas Negras"_. 
 
 ### **Ramas**
 En las ramas encontraremos los diferentes ejercicios que vayamos realizando a lo largo del curso. 
 
-#### **_Additional info:_**  
+#### **_Additional info_**  
    * _usamos sdk 3.1 de NETCORE_
 
 #### **Enlaces** 
